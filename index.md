@@ -1,7 +1,7 @@
 # Jason Win
 ![Portrait](image.jpg)
 ##  About me
-Hi! I'm Jason, a 3rd year computer science major at the University of California, San Diego and aspiring software engineer looking to explore my passion for technology through new experiences and learning. [Oops go back I don't want to learn more.](README.md)
+Hi! I'm Jason, a 3rd year computer science major at the University of California, San Diego and aspiring software engineer looking to explore my passion for technology through new experiences and learning. [Oops get me out I don't want to learn more.](README.md)
 ## Hobbies
 - Cars
 - Basketball
@@ -10,6 +10,7 @@ Hi! I'm Jason, a 3rd year computer science major at the University of California
 - Technology
 - Spending time with family and friends
 - ~~Coding~~
+
 ## Inspiration
 **In the words of the late Kobe Bryant:**
 > "But are you a different animal and the same beast?"
