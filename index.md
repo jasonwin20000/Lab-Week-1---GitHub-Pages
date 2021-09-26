@@ -13,9 +13,12 @@ Hi! I'm Jason, a 3rd year computer science major at the University of California
 ## Inspiration
 **In the words of the late Kobe Bryant:**
 > "But are you a different animal and the same beast?"
+
 [RIP KOBE](https://www.youtube.com/watch?v=Ickn8iipxUc)
 
+
 `System.out.println("Always debug with print statements.")`
+
 
 **Me ~~following~~ the wise words of our CSE department:**
 - [ ] Start early
@@ -26,7 +29,7 @@ Hi! I'm Jason, a 3rd year computer science major at the University of California
 2. Live Better
 3. Walmart
 
-### Thank you for coming to my TED Talk
+### Thank you for coming to my TED Talk!
 Stay happy and healthy everyone :)
 
 
