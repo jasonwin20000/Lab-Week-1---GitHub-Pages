@@ -22,8 +22,8 @@ Hi! I'm Jason, a 3rd year computer science major at the University of California
 
 
 **Me ~~following~~ the wise words of our CSE department:**
-- [ ] Start early
-- [ ] Start often
+- [ ]  Start early
+- [ ]  Start often
 
 ## Keys to Success
 1. Save Money
