@@ -1,7 +1,7 @@
 # Jason Win
 ![Portrait](image.jpg)
 ##  About me
-Hi! I'm Jason, a 3rd year computer science major at the University of California, San Diego and aspiring software engineer looking to explore my passion for technology through new experiences and learning. [Oops get me out I don't want to learn more.](README.md)
+Hi! I'm Jason, a 3rd year computer science major at the University of California, San Diego and aspiring software engineer looking to explore my passion for technology through new experiences and learning. [Oops get me out I don't want to learn more.](README.md) [Click here to see what inspires me.](#inspiration)
 ## Hobbies
 - Cars
 - Basketball
